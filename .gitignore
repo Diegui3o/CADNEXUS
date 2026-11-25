@@ -1,0 +1,44 @@
+
+# Documentos de ingeniería
+*.pdf
+*.dwg
+*.dxf
+*.dwt
+*.bak
+*.sv$
+*.dwl
+*.dwl2
+
+# Reportes y archivos internos
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.doc
+
+# Firmas y documentos de salida
+SALIDA-FIRMAS-COMPLETAS/
+SALIDA-*
+REPORTES/
+OUTPUT/
+
+# Información sensible
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Entorno de desarrollo
+.vscode/
+.idea/
