@@ -1,8 +1,0 @@
-{
-  "alias": {"RR": "RRA"},
-  "muestras": [
-    {"archivo":"QLL-ENG-5EX-240005-342-DR-3210-IN5002_RAB.pdf","texto":"R.R.A","caja":[3817,3086,3854,3104]},
-    {"archivo":"QLL-ENG-5EX-240005-342-DR-3210-IN5008_RAB.pdf","texto":"R.R.A","caja":[3859,3130,3896,3148]},
-    {"archivo":"QLL-ENG-5EX-240005-342-DR-3220-IN5004_RAB.pdf","texto":"D.M.M.","caja":[3866,3130,3896,3148]}
-  ]
-}

@@ -42,3 +42,14 @@ venv/
 # Entorno de desarrollo
 .vscode/
 .idea/
+
+# Firmas personales y corporativas
+FIRMAS/
+**/FIRMAS/
+
+# Datos de proyectos anteriores
+Piloto-Firmas/config.json
+Piloto-Firmas/referencias.npz
+
+# Archivos de diagnóstico
+DIAGNOSTICO/
